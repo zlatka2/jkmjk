@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <title>Тренування з  HTML</title>
+  <title>Тренування з HTML</title>
 </head>
 <body>
     <h1>Сергій Мацаєнко</h1>
